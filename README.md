@@ -2,7 +2,7 @@ EventProcessingPlatformEsper
 ============================
 
 Our modificated version of Esper forked from http://esper.codehaus.org/.
-This project is part of the Complex Event Processing Platform found [here](https://github.com/ThommyH/ComplexEventProcessingPlatform/blob/master/README.md)
+This project is part of the Complex Event Processing Platform found [here](https://github.com/BPT-NH/ComplexEventProcessingPlatform)
 
 Licence
 ============================
